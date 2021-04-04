@@ -1,11 +1,15 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "Unlock Denton",
+  "description": "The Denton locksmith experts.",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
-    "ssg"
+    "denton locksmith",
+    "locksmith denton",
+    "locksmith 76201",
+    "locksmith denton, tx",
+    "locksmith",
+    "unlock denton",
+    "locked car denton",
+    "locked out denton"
   ],
   "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
   "success_url": "/",
